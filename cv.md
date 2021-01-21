@@ -1,6 +1,6 @@
 # Aliaksei Latypau
 
-<img src="assets/img/myPhoto.jpg" width="500">
+<img src="assets/img/photo.png" width="400">
 
   Front-end developer
   
