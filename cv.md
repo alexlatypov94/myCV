@@ -13,7 +13,7 @@
   
 ## Summary
 
-  *I completed the course of The Rolling Scopes School in JavaScript / Front-end. Learned how to write scripts, create SPA and MPA applications. Mastered Git version control system and Webpack project builder. Worked with the Three.js library. I am currently learning React*
+  *I completed the course of The Rolling Scopes School in JavaScript / Front-end. Learned how to write scripts, create SPA and MPA applications. Mastered Git version control system and Webpack project builder. Worked with the Three.js library. I have experience as a freelancer, created landing pages. I am currently learning React.*
   
 ## Skills 
 
