@@ -1,1 +1,1 @@
-# myCV
+https://alexlatypov94.github.io/myCV/cv
