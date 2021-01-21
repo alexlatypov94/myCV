@@ -1,6 +1,6 @@
 # Aliaksei Latypau
 
-![](./assets/img/photo.png)
+![](./assets/img/photo.png =400x20)
 
   Front-end developer
   
